@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# BMS Monitor - El-Piast
+# BMS Monitor
 Prototyp panelu monitoringu budynkowego wykonany w React.
 
 ### Funkcje:
@@ -7,7 +7,7 @@ Prototyp panelu monitoringu budynkowego wykonany w React.
 - Automatyczne alerty po przekroczeniu 24°C.
 - Sterowanie HVAC i oświetleniem.
 =======
-# BMS Monitor — EL-PIAST
+# BMS Monitor
 
 Prototyp panelu monitoringu budynkowego (Building Management System) wykonany w React + Vite.  
 Projekt demonstracyjny nawiązujący do systemów IoT i Smart Buildings tworzonych przez firmę EL-PIAST z Oleśnicy.
@@ -62,7 +62,7 @@ src/
 
 ## Kontekst
 
-Projekt powstał jako demonstracja umiejętności frontendowych w kontekście rekrutacji do firmy **EL-PIAST** (Oleśnica) — producenta urządzeń i oprogramowania w branży automatyki budynkowej, IoT i Smart Buildings.
+Projekt powstał jako demonstracja umiejętności frontendowych w branży automatyki budynkowej, IoT i Smart Buildings.
 
 Symulowane dane odzwierciedlają typowe parametry monitorowane w systemach BMS:  
 temperatura, wilgotność, stan HVAC, oświetlenie, occupancy.
