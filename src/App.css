@@ -1,0 +1,27 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, sans-serif; background: #f5f7fa; }
+
+.app { max-width: 420px; margin: 40px auto; padding: 0 16px; }
+
+.header { display: flex; justify-content: space-between; align-items: center;
+  padding-bottom: 16px; border-bottom: 1px solid #dde3ed; margin-bottom: 20px; }
+.logo { font-size: 14px; font-weight: 600; color: #185FA5; }
+.clock { font-size: 13px; color: #888; font-variant-numeric: tabular-nums; }
+
+.card { background: white; border-radius: 12px; padding: 24px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+.room-name { font-size: 11px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.07em; color: #888; margin-bottom: 12px; }
+.temp-big { font-size: 42px; font-weight: 300; margin-bottom: 20px; transition: color 0.4s; }
+
+.metrics { display: flex; flex-direction: column; gap: 0; }
+.metric-row { display: flex; justify-content: space-between; align-items: center;
+  padding: 10px 0; border-top: 1px solid #f0f2f5; font-size: 13px; color: #444; }
+
+.pill { padding: 3px 12px; border-radius: 20px; font-size: 12px;
+  font-weight: 500; cursor: pointer; user-select: none; transition: background 0.2s; }
+.pill-on  { background: #e6f4ea; color: #1e6e3a; }
+.pill-off { background: #f0f2f5; color: #888; }
+
+.alert { margin-top: 16px; background: #fdf0e6; color: #a84300;
+  border-radius: 8px; padding: 10px 14px; font-size: 13px; }
