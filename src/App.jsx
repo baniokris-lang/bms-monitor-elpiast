@@ -72,7 +72,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="header">
-        <span className="logo">EL-PIAST · BMS Monitor</span>
+        <span className="logo">BMS Monitor</span>
         <span className="clock">{time.toLocaleTimeString('pl-PL')}</span>
       </header>
       <RoomCard />
