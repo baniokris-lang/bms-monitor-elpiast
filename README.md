@@ -10,9 +10,9 @@ Prototyp panelu monitoringu budynkowego wykonany w React.
 # BMS Monitor
 
 Prototyp panelu monitoringu budynkowego (Building Management System) wykonany w React + Vite.  
-Projekt demonstracyjny nawiązujący do systemów IoT i Smart Buildings tworzonych przez firmę EL-PIAST z Oleśnicy.
+Projekt demonstracyjny nawiązujący do systemów IoT i Smart Buildings
 
-🔗 **Demo live:** [bms-monitor-elpiast.vercel.app](https://bms-monitor-elpiast.vercel.app)
+🔗 **Demo live:** [bms-monitor-umber.vercel.app](https://bms-monitor-umber.vercel.app)
 
 ---
 
@@ -39,8 +39,8 @@ Projekt demonstracyjny nawiązujący do systemów IoT i Smart Buildings tworzony
 ## Uruchomienie lokalne
 
 ```bash
-git clone https://github.com/baniokris-lang/bms-monitor-elpiast.git
-cd bms-monitor-elpiast
+git clone https://github.com/baniokris-lang/bms-monitor-umber.git
+cd bms-monitor-umber
 npm install
 npm run dev
 ```
